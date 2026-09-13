@@ -39,15 +39,23 @@ I'm a Computer Science student passionate about artificial intelligence, machine
 # 📊 GitHub Stats:
 
 <div align="center">
-  <img src="https://github-readme-stats.shion.dev/api?username=nadiyahace&theme=jolly&hide_border=false&include_all_commits=true&count_private=true" />
-  <img src="https://streak-stats.demolab.com/?user=nadiyahace&theme=jolly&hide_border=false" />
-  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=nadiyahace&theme=jolly&hide_border=false&include_all_commits=true&count_private=true&layout=compact" />
+  <img height="120" src="https://github-readme-stats.shion.dev/api?username=nadiyahace&theme=jolly&hide_border=false&include_all_commits=true&count_private=true" />
+  <img align="left" width="300" src="https://i.pinimg.com/originals/a8/38/83/a83883bc09c956f67033a83d1a1f1240.gif" alt="Left side GIF">
+  <img height="120" src="https://streak-stats.demolab.com/?user=nadiyahace&theme=jolly&hide_border=false" />
+  <br><br>
+  <img height="110" src="https://github-readme-stats.shion.dev/api/top-langs/?username=nadiyahace&theme=jolly&hide_border=false&include_all_commits=true&count_private=true" />
 </div>
 
+<br clear="left"/>
+
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=nadiyahace&theme=jolly&no-frame=false&no-bg=false&margin-w=4)
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=nadiyahace&theme=jolly&no-frame=false&no-bg=false&margin-w=4" alt="Trophies" />
+</div>
+
+<br>
 
 ### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=nadiyahace&limit=5&theme=jolly&combine_all_yearly_contributions=true)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<div align="center">
+  <img src="https://github-contributor-stats.vercel.app/api?username=nadiyahace&limit=5&theme=jolly&combine_all_yearly_contributions=true" alt="Top Contributed Repo" />
+</div>
