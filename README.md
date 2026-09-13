@@ -47,15 +47,3 @@ I'm a Computer Science student passionate about artificial intelligence, machine
 </div>
 
 <br clear="left"/>
-
-## 🏆 GitHub Trophies
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=nadiyahace&theme=jolly&no-frame=false&no-bg=false&margin-w=4" alt="Trophies" />
-</div>
-
-<br>
-
-### 🔝 Top Contributed Repo
-<div align="center">
-  <img src="https://github-contributor-stats.vercel.app/api?username=nadiyahace&limit=5&theme=jolly&combine_all_yearly_contributions=true" alt="Top Contributed Repo" />
-</div>
