@@ -40,7 +40,7 @@ I'm a Computer Science student passionate about artificial intelligence, machine
 
 <div align="center">
   <img height="120" src="https://github-readme-stats.shion.dev/api?username=nadiyahace&theme=jolly&hide_border=false&include_all_commits=true&count_private=true" />
-  <img align="left" width="300" src="https://i.pinimg.com/originals/a8/38/83/a83883bc09c956f67033a83d1a1f1240.gif" alt="Left side GIF">
+  <img align="left" width="260" src="https://i.pinimg.com/originals/a8/38/83/a83883bc09c956f67033a83d1a1f1240.gif" alt="Left side GIF">
   <img height="120" src="https://streak-stats.demolab.com/?user=nadiyahace&theme=jolly&hide_border=false" />
   <br><br>
   <img height="110" src="https://github-readme-stats.shion.dev/api/top-langs/?username=nadiyahace&theme=jolly&hide_border=false&include_all_commits=true&count_private=true" />
